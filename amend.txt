@@ -1,0 +1,1 @@
+This is new file created and added to the previous commit with "git commit --amend" option. This command modify the previous commit with the current index changes.
