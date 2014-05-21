@@ -1,0 +1,1 @@
+This is new file created, First it will be added to stash and then it will be added to workspace.
